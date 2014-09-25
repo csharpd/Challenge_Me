@@ -1,12 +1,15 @@
-# Challenge Me 
+# Challenge Me
 [![Code Climate](https://codeclimate.com/github/yoshdog/challenge-me/badges/gpa.svg)](https://codeclimate.com/github/yoshdog/challenge-me)
 [![Test Coverage](https://codeclimate.com/github/yoshdog/challenge-me/badges/coverage.svg)](https://codeclimate.com/github/yoshdog/challenge-me)
 
 ## Where to see it
 
 A working version of the app can be found here: [Challenge Me](http://challenge--me.herokuapp.com/)
+Our [Presentation] (https://www.youtube.com/watch?v=XaKRE04uz6Y&feature=youtu.be)
+Demo [Video] (https://www.youtube.com/watch?v=2Tc_3lRnkkM&feature=youtu.be)
+![](public/images/challengemescreenshot.png)
 
-### Meet the Team: 
+### Meet the Team:
 
   + [Nicola Aitken](https://github.com/aitkenster)
   + [Toan Nguyen](https://github.com/yoshdog)
@@ -24,7 +27,7 @@ At the moment, raising money for charity can be quite boring. It boils down to a
   + It is quite difficult to remain motivated to carry out your charity event.
   + Asking for sponsorship money can be quite difficult for all parties involved.
   + It's hard for the trainee to get people interested in what they are doing.
-  + It's hard to ask for money for something that could be happening at a much later date. 
+  + It's hard to ask for money for something that could be happening at a much later date.
 
 2. Our Aims:
   + To help motivate the person training for their event and holding them accountable publicly for it.
@@ -46,7 +49,7 @@ At the moment, raising money for charity can be quite boring. It boils down to a
   + Amazon S3
   + Paperclip
   + Imagemagick
-  
+
 ## APIs Used:
 
   + JustGiving
@@ -75,4 +78,4 @@ rspec
 ```
 
 
-Youtube link to follow....
+
