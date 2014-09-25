@@ -7,7 +7,7 @@
 A working version of the app can be found here: [Challenge Me](http://challenge--me.herokuapp.com/)
 Our [Presentation] (https://www.youtube.com/watch?v=XaKRE04uz6Y&feature=youtu.be)
 Demo [Video] (https://www.youtube.com/watch?v=2Tc_3lRnkkM&feature=youtu.be)
-![](public/images/challengemescreenshot.png)
+![](app/assets/images/challengemescreenshot.png)
 
 ### Meet the Team:
 
